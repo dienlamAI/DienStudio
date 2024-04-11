@@ -10,7 +10,7 @@
 - [ ] Have accepted papers in YSC → Eureka → FDSE → ...
 - [ ] Achieved **Top 5** in the UIT Data Science Challenge 2024
 ---
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DienStudio&hide=stars&show_icons=true)]([https://camo.githubusercontent.com/])
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DienStudio&hide=stars&show_icons=true)]([https://camo.githubusercontent.com/])  
 ![Profile views](https://komarev.com/ghpvc/?username=DienStudio&color=brightgreen)
 
  
